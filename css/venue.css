@@ -1,0 +1,28 @@
+
+.map{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+p{
+    color: gray;
+}
+.main{
+    color: #557775;
+
+}
+
+.chicago, .hotel{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.hotel{
+    padding-top: 5%;
+}
+
+.frame{
+    width: 70%;
+}

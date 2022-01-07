@@ -1,0 +1,55 @@
+.chriss{
+    display: flex;
+    justify-content: space-between;
+}
+.shay{
+    display: flex;
+    justify-content: space-between;
+    margin-top:5%;
+}
+.middle{
+    width: 80%;
+    margin: 0% auto;
+}
+.chriss-text{
+    width: 70%;
+}
+.shay-text{
+    width: 70%;
+}
+.shay-img{
+    margin-top: 3%;
+}
+img{
+    border-radius: 7898778898%;
+    width: 50%;
+}
+fieldset, .cen {
+    text-align: center;
+}
+
+.chriss-text p, .shay-text p{
+    font-size: 120%;
+    line-height: 150%;
+    color: rgb(102, 96, 96);
+}
+
+.con-p{
+    color: #557555 !important;;
+    font-size: 150% !important;
+}
+
+.green{
+    line-height: 150%;
+    font-size: 150%;
+    padding: 30px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top:-10px;
+    background-image:linear-gradient(75deg,#A1D3AF 40%, #F2F0D0 70%);
+}
+
+.green-in{
+    width: 80%;
+    margin: 0 auto;
+}

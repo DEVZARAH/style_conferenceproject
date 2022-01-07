@@ -1,0 +1,43 @@
+.con-con{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.left{
+    width: 60%;
+}
+.right{
+    width: 30%;
+}
+p, ul{
+    color: grey;
+    line-height: 150%;
+}
+form{
+    width: 100%;
+}
+input{
+    width: 80%;
+    border-radius: 5px;
+    border: 1px solid grey;
+    padding: 3%;
+    margin-top: 3%;
+}
+
+#pass{
+    width: 10%;
+}
+label{
+    padding-bottom: 5px;
+    margin-bottom: 2%;
+}
+
+
+.btn{
+    background-color: #557775;
+    color: white;
+    width: 40%;
+}

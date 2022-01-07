@@ -1,0 +1,31 @@
+.table{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: grey;
+}
+
+td{
+    border-bottom: grey solid 2px;
+    margin-left: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.none, .nonee{
+    border-bottom: none !important;
+}
+
+.none{
+    width: 10%;
+}
+
+.move{
+    padding-left: 50px;
+}
+
+.dif{
+    color: #557775 !important;
+    font-size: 120%;
+}
